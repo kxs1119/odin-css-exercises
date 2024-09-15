@@ -1,0 +1,21 @@
+
+.alert-text {
+    background-color: rgb(222, 149, 149);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#number-two {
+    color: blue;
+    font-size: 36px;
+}
+
+#number-four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
